@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aziz Dhif  
 
 🎓 **Master’s student in Big Data and Artificial Intelligence (Data Science and AI)** at [Université Paris Dauphine–PSL](https://dauphine.psl.eu/).  
-Ranked **2nd in my class (2024–2025)**. Passionate about **Machine Learning**, **Deep Learning**, and the **mathematical foundations of AI**.  
+ Passionate about **Machine Learning**, **Deep Learning**, and the **mathematical foundations of AI**.  
 
 ---
 
