@@ -7,11 +7,11 @@
 
 ## 🧠 About Me
 
-- 🎯 Interested in **explainable AI**, **generative models**, and **optimization for ML**  
+- 🎯 Interested in **Data Science**, **LLM**, and **optimization for ML**  
 - 💻 Strong skills in **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **R**, **SQL**, and **Java**  
 - 🧩 Solid background in **statistics**, **linear algebra**, and **data analysis**  
 - 🏆 **Hackathon “Hack for Good with GenAI”** — *Jury’s Favorite Award* (Paris Dauphine, Tunis Campus)  
   → Built an AI assistant to help psychiatrists in their clinical work  
-- 🔬 Research-oriented mindset — always exploring how math and AI can explain real-world phenomena  
+- 🔬 Looking for an Internship in Data Science. 
 
 ---
