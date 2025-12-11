@@ -12,6 +12,6 @@
 - 🧩 Solid background in **statistics**, **linear algebra**, and **Mathematics**  
 - 🏆 **Hackathon “Hack for Good with GenAI”** — *Jury’s Favorite Award* (Paris Dauphine, Tunis Campus)  
   → Built an AI assistant to help psychiatrists in their clinical work  
-- 🔬 Looking for an Internship in Data Science. 
+- 🔬 Looking for an Internship in Data Science, LLM and AI AGENTS. 
 
 ---
