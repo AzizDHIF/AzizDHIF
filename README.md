@@ -8,10 +8,8 @@
 ## 🧠 About Me
 
 - 🎯 Interested in **Data Science**, **LLM**, and **optimization for ML**  
-- 💻 Strong skills in **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **R**, **SQL**, and **Java**  
+- 💻 Strong skills in **Python**, **TensorFlow**, **LLM**,  **PyTorch**, **Scikit-learn**, **R**, **SQL**, and **Java**  
 - 🧩 Solid background in **statistics**, **linear algebra**, and **Mathematics**  
-- 🏆 **Hackathon “Hack for Good with GenAI”** — *Jury’s Favorite Award* (Paris Dauphine, Tunis Campus)  
-  → Built an AI assistant to help psychiatrists in their clinical work  
-- 🔬 Looking for an Internship in Data Science, LLM and AI AGENTS. 
+
 
 ---
