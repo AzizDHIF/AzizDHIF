@@ -7,9 +7,9 @@ Dauphine-PSL. I am seeking a PhD program.
 
 ## 🧠 About Me
 
-- 🎯 Interested in **Data Science**, **LLM**, and **optimization for ML**  
-- 💻 Strong skills in **Python**, **TensorFlow**, **LLM**,  **PyTorch**, **Scikit-learn**, **R**, **SQL**, and **Java**  
-- 🧩 Solid background in **statistics**, **linear algebra**, and **Mathematics**  
+- 🎯 Interested in **Reinforcement Learning**, **LLM**, and **deep learning** 
+- 💻 Strong skills in **Python**, **TensorFlow**, **LLM**,  **PyTorch**, **Scikit-learn**, **R**, and **SQL**
+- 🧩 Solid background in  **Mathematics**  
 
 
 ---
